@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         AOMS Helper
+// @Author       Lj Kenji
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Chèn HTML có input và nút Paste vào trang AwbDetail, tích hợp check digit, F4 để tìm kiếm
